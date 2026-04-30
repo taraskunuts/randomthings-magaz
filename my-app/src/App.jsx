@@ -7,7 +7,7 @@ import Buy from "./pages/Buy";
 export default function App() {
   return (
     <>
-      <nav style={{ display: "flex", gap: "10px", padding: "10px" }}>
+      <nav>
         <Link to="/">Головна</Link>
         <Link to="/login">Login</Link>
         <Link to="/register">Register</Link>
