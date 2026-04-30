@@ -11,14 +11,13 @@ export default function App() {
         <Link to="/">Головна</Link>
         <Link to="/login">Login</Link>
         <Link to="/register">Register</Link>
-        <Link to="/buy">Оплата</Link>
       </nav>
 
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
-        <Route path="/buy" element={<Buy />} />
+        <Route path="/buy/:id" element={<Buy />} />
       </Routes>
     </>
   );
