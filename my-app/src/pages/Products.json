@@ -1,12 +1,62 @@
 [
-  { "id": 1, "name": "iPhone 17", "price": 36950, "url": "https://cdn.ya.ua/uploads/variations/iphone-17-256gb-mist-blue-e-sim-mg4841.webp" },
-  { "id": 3, "name": "JBL Tune 530 Wired", "price": 1099, "url": "https://jbl-harman.in.ua/i/product/1545/695e2c967afe5.png" },
-  { "id": 10, "name": "Projector EB-W04", "price": 28775, "url": "https://brain.com.ua/static/images/prod_img/2/5/U0541325_1739719963.jpg" },
-  { "id": 2, "name": "Ноутбук Dell 15 Laptop", "price": 33999, "url": "https://content.rozetka.com.ua/goods/images/big/636932394.jpg" },
-  { "id": 4, "name": "Mouse Logitech", "price": 5999, "url": "https://files.foxtrot.com.ua/PhotoNew/img_0_709_5788_0_1_SuXFey.webp" },
-  { "id": 5, "name": "Razer Ornata V3 X USB UA Black", "price": 2299, "url": "https://brain.com.ua/static/images/prod_img/5/9/U0839659_1739010437.jpg" },
-  { "id": 6, "name": "Monitor LG 24GS60F-B", "price": 5199, "url": "https://cdn.comfy.ua/media/catalog/product/2/4/24gs60f_upd.jpg" },
-  { "id": 7, "name": "Apple iPad 11' 2025 Wi-Fi 128GB Blue", "price": 17499, "url": "https://content1.rozetka.com.ua/goods/images/big/526087492.jpg" },
-  { "id": 8, "name": "Морозиво Хрещатик", "price": 45, "url": "https://images.silpo.ua/v2/products/1000x1000/webp/62aa1a42-270c-4d42-875e-4a417687262e.png" },
-  { "id": 9, "name": "Canon EOS 2000D 18-55 IS II 2728c008", "price": 16699, "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3CJ7eNcg4m2zYmQu8kKCoeu5Ok1C9t980AFDLJSgonPvEs_LrmX4W3oTpmedcjIXVE9k6Ej4K41Um77ex0hJaXoUVQRxo" }
+  {
+    "id": 1,
+    "name": "iPhone 17",
+    "price": 36950,
+    "url": "https://cdn.ya.ua/uploads/variations/iphone-17-256gb-mist-blue-e-sim-mg4841.webp"
+  },
+  {
+    "id": 3,
+    "name": "JBL Tune 530 Wired",
+    "price": 1099,
+    "url": "https://jbl-harman.in.ua/i/product/1545/695e2c967afe5.png"
+  },
+  {
+    "id": 10,
+    "name": "Projector EB-W04",
+    "price": 28775,
+    "url": "https://brain.com.ua/static/images/prod_img/2/5/U0541325_1739719963.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук Dell 15 Laptop",
+    "price": 33999,
+    "url": "https://content.rozetka.com.ua/goods/images/big/636932394.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mouse Logitech",
+    "price": 5999,
+    "url": "https://files.foxtrot.com.ua/PhotoNew/img_0_709_5788_0_1_SuXFey.webp"
+  },
+  {
+    "id": 5,
+    "name": "Razer Ornata V3 X USB UA Black",
+    "price": 2299,
+    "url": "https://brain.com.ua/static/images/prod_img/5/9/U0839659_1739010437.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Monitor LG 24GS60F-B",
+    "price": 5199,
+    "url": "https://cdn.comfy.ua/media/catalog/product/2/4/24gs60f_upd.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apple iPad 11' 2025 Wi-Fi 128GB Blue",
+    "price": 17499,
+    "url": "https://content1.rozetka.com.ua/goods/images/big/526087492.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Морозиво Хрещатик",
+    "price": 45,
+    "url": "https://images.silpo.ua/v2/products/1000x1000/webp/62aa1a42-270c-4d42-875e-4a417687262e.png"
+  },
+  {
+    "id": 9,
+    "name": "Canon EOS 2000D 18-55 IS II 2728c008",
+    "price": 16699,
+    "url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3CJ7eNcg4m2zYmQu8kKCoeu5Ok1C9t980AFDLJSgonPvEs_LrmX4W3oTpmedcjIXVE9k6Ej4K41Um77ex0hJaXoUVQRxo"
+  }
 ]

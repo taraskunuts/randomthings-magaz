@@ -47,9 +47,7 @@ export default function Register() {
 
       {error && <p style={{ color: "red" }}>{error}</p>}
 
-      <button onClick={handleRegister}>
-        Create account
-      </button>
+      <button onClick={handleRegister}>Create account</button>
     </div>
   );
 }

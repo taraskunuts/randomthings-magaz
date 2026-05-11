@@ -12,8 +12,13 @@ export default function Buy() {
   }
 
   const pay = () => {
-    // 
-    navigate("/");
+    const history = JSON.parse(localStorage.getItem("history")) || [];
+
+    history.push(product);
+
+    localStorage.setItem("history", JSON.stringify(history));
+
+    navigate("/history");
   };
 
   return (
@@ -24,7 +29,9 @@ export default function Buy() {
           <p className="buy-name">{product.name}</p>
           <p className="buy-price">{product.price} грн</p>
         </div>
-        <button className="buy-btn" onClick={pay}>Оплатити</button>
+        <button className="buy-btn" onClick={pay}>
+          Оплатити
+        </button>
       </div>
     </div>
   );
